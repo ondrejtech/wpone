@@ -1,0 +1,137 @@
+
+:root {
+
+--app-text-black-dark: 74,74,74;
+--app-text-black-light: 118,129,128;
+
+--app-button-blue-midtone: 0,112,186;
+--app-button-blue-midtone-hover: 0,94,166;
+
+--app-button-gray-light: 225,231,235;
+--app-button-gray-light-hover: 210,219,225;
+
+--app-bg-gray-highlight: 245,247,250;
+
+/*
+--app-table-border-gray-light: ;
+--app-table-header-gray-midtone: ;
+--app-table-body-gray-light: ;
+*/
+
+--app-font-primary--sans-serif--thin: "app-font-primary-sans-serif-thin";
+--app-font-primary--sans-serif--light: "app-font-primary-sans-serif-light";
+--app-font-primary--sans-serif--regular: "app-font-primary-sans-serif-regular";
+--app-font-primary--sans-serif--medium: "app-font-primary-sans-serif-medium";
+--app-font-primary--sans-serif--bold: "app-font-primary-sans-serif-bold";
+
+
+
+/*
+--app-button
+--app-typography
+--app-color
+--app-bg
+
+
+--app-color
+--app-typography
+
+
+
+--app-table-primary-header
+--app-table-primary-body
+--app-table-primary-border
+
+--app-table-secondary-header
+--app-table-secondary-body
+--app-table-secondary-border
+
+
+
+light
+midtone
+dark
+
+
+tiny
+small
+normal
+medium
+big
+
+
+
+
+thin
+light
+regular
+medium
+bold
+black
+
+
+--app-color-primary
+--app-color-secondary
+--app-color-tertiary
+--app-color-quaternary
+quinary
+senary
+septanary
+octonary
+nonary
+denary
+
+--app-color-primary--blue--midtone
+--app-color-primary--blue--dark
+--app-color-primary--black--midtone
+--app-color-primary--black--dark
+--app-color-primary--blue-b--midtone
+--app-color-primary--blue-b--dark
+--app-color-secondary--gray--light
+--app-color-secondary--gray--midtone
+--app-color-secondary--gray-b--dark
+
+--app-font-primary--sans-serif--thin
+--app-font-primary--sans-serif--light
+--app-font-primary--sans-serif--regular
+--app-font-primary--sans-serif--medium
+--app-font-primary--sans-serif--bold
+
+--app-font-size--small-x
+--app-font-size--small
+--app-font-size--regular
+--app-font-size--medium
+--app-font-size--large
+--app-font-size--large-x
+--app-font-size--large-xx
+--app-font-size--large-xxx
+
+
+
+
+
+--app-padding--top--small
+--app-padding--right--small
+--app-padding--bottom--small
+--app-padding--left--small
+
+
+--app-width-small-x
+--app-width-small
+
+--app-border-small
+
+
+padding
+margin
+width
+height
+border
+
+
+
+*/
+
+
+
+}

@@ -1,0 +1,14 @@
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+
+RewriteCond %{THE_REQUEST} /public/([^\s?]*) [NC]
+RewriteRule ^ https://www.wpone.cz/%1 [L,NE,R=302]
+
+RewriteCond %{HTTP_HOST} ^(wpone.cz|wp-one.cz|www.wp-one.cz|automyckaborskapole.cz|www.automyckaborskapole.cz|automycka-borskapole.cz|www.automycka-borskapole.cz)
+RewriteRule ^ https://www.wpone.cz%{REQUEST_URI} [L,NE,R=302]
+
+RewriteCond %{HTTP_HOST} !=localhost
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://www.wpone.cz%{REQUEST_URI} [L,NE,R=302]
+
+RewriteRule ^((?!public|app|dev|admin|landing|upload|html-table).*)$ public/$1 [L,NC]

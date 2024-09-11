@@ -1,0 +1,8 @@
+{
+"app_font_roboto_condensed": "https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap",
+"app_root": "res/css/set/core/app-root.css",
+"app_element": "res/css/set/core/app-element.css",
+"app_desktop": "res/css/set/core/app-desktop.css",
+"app_mobile": "res/css/set/core/app-mobile.css"
+
+}
